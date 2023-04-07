@@ -1,2 +1,1 @@
-Createing a new branch is quick
-Createing a new branch is quick $ simple
+Creating a new branch is quick add simple.
